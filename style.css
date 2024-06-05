@@ -50,6 +50,7 @@ li{
   touch-action: manipulation;
   vertical-align: middle;
   white-space: nowrap;
+  transition: ease-out 0.2s;
 }
 
 .button-3:hover {
